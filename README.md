@@ -1,4 +1,4 @@
-# Joshua Hsu (he/him) 
+# JOSHUA N HSU (he/him) 
 <b> Software Engineer 💻 | Educator 👨‍🏫 | Storyteller 📖 </b>
 
 ## about me 
@@ -20,5 +20,5 @@ Bootstrap, Tailwind, Materialize.
 ##  any databases, tools, and crms?
 PostgreSQL, MongoDB, Oracle, Hubspot, Git, REST, JSON, NPM
 
-## what langauge do you speak? 
+## what languages do you speak? 
 I speak English, Mandarin, and Cantonese. 
