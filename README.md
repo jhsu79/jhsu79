@@ -1,9 +1,6 @@
 # Joshua Hsu (he/him) 
 <b> Software Engineer </b>
 
-<!--
-**jhsu79/jhsu79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## about me 
 Hi there! I'm Joshua Hsu (Pronounced 'Shoe' Most people call me Josh. I'm a full-stack software engineer with a demonstrated history in education and arts management, vision building, and design. My experience in the arts and education has taught me how to manage teams, deal with different personalities, and design and implement solutions with few resources and tight deadlines. I am confident in my ability to deliver a product that can be crafted to a client's needs, harnessing the specific tools necessary to get the job done.  
 
