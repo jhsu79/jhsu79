@@ -13,9 +13,12 @@ I currently live in Portland, ME with my wife, two children, and two dogs.
 ##   do you have any hobbies? 
 I enjoy teaching, working with and for local arts organizations, playing music (piano), and playing any tabletop, card, or board games.  
 
-##  what languages and frameworks have you used?
+##  what languages and frameworks do you use? 
 Javascript, Typescript, Python, SQL, EJS, DTL HTML, CSS, React, Express.js, Mongoose, Django, Jquery
 Bootstrap, Tailwind, Materialize. 
 
 ##  any databases, tools, and crms?
 PostgreSQL, MongoDB, Oracle, Hubspot, Git, REST, JSON, NPM
+
+## what langauge do you speak? 
+I speak English, Mandarin, and Cantonese. 
