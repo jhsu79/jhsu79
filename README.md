@@ -10,8 +10,8 @@ I enjoy creating immersive, functional, and collaborative projects that spark cr
 ##  where are you based?
 I currently live in Portland, ME with my wife, two children, and two dogs.
 
-## what are your interests? 
-learning, teaching, performing arts, music, dance, and tabletop, board, and role-playing games.  
+## what do you like to do in your free time?
+learning a new skill, teaching/mentoring, volunteering/working in performing arts, and playing tabletop, board, and role-playing games.  
 
 ##  what languages and frameworks do you use? 
 Javascript, Typescript, Python, SQL, EJS, DTL HTML, CSS, React, Express.js, Mongoose, Django, Jquery
